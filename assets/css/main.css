@@ -1,0 +1,57 @@
+#fileName {
+    border: 0;
+    pointer-events: none;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#fileInputSexion {
+    display: inline-block;
+}
+
+#file {
+    width: 1px;
+    outline: none;
+    display: inline-block;
+
+}
+
+.err {
+    color: red;
+    font-weight: bold;
+}
+
+.success {
+    color: green;
+    font-weight: bold;
+}
+
+.search-box-part {
+    margin: auto;
+    width: 50%;
+    position: relative;
+}
+
+#search_box_button {
+    position: absolute;
+    right: 28px;
+    top: 14px;
+    cursor: pointer;
+}
+
+hr {
+    border-top: 2px solid #777;
+}
+
+#resultsTable {
+    margin-top: 33px;
+    font-size: 12px;
+
+}
+
+
+
+#distancesTable{
+    /*display: none;*/
+    margin-top: 74px;
+}

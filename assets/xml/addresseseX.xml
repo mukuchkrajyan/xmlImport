@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 3.2.5
+- http://www.phpmyadmin.net
+-
+- Host: localhost
+- Generation Time: Sep 22, 2010 at 03:35 PM
+- Server version: 5.1.50
+- PHP Version: 5.2.13
+-->
+
+<!--
+- Database: 'roomservice'
+-->
+<roomservice>
+    <!-- Table addresses -->
+
+    <addresses>
+        <addresses_id>40964</addresses_id>
+        <addresses_address>30</addresses_address>
+        <addresses_street>Коровинское шоссе</addresses_street>
+        <addresses_street_name>Коровинское</addresses_street_name>
+        <addresses_street_type>шоссе</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Северный адм.округ</addresses_adm1>
+        <addresses_adm2>Дмитровский (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.51837</addresses_cord_y>
+        <addresses_cord_x>55.88401</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>34837</addresses_id>
+        <addresses_address>7/9С2</addresses_address>
+        <addresses_street>Новопресненский пер.</addresses_street>
+        <addresses_street_name>Новопресненский</addresses_street_name>
+        <addresses_street_type>переулок</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Центральный адм.округ</addresses_adm1>
+        <addresses_adm2>Пресненский (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.57338</addresses_cord_y>
+        <addresses_cord_x>55.76640</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>145189</addresses_id>
+        <addresses_address>40К2С2</addresses_address>
+        <addresses_street>Дубнинская ул.</addresses_street>
+        <addresses_street_name>Дубнинская</addresses_street_name>
+        <addresses_street_type>улица</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Северный адм.округ</addresses_adm1>
+        <addresses_adm2>Дегунино Восточное (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.56035</addresses_cord_y>
+        <addresses_cord_x>55.88956</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>125070</addresses_id>
+        <addresses_address>К313Б</addresses_address>
+        <addresses_street>3-й мкр.</addresses_street>
+        <addresses_street_name>3-й</addresses_street_name>
+        <addresses_street_type>микрорайон</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Зеленоградский адм.округ</addresses_adm1>
+        <addresses_adm2>Матушкино-Савелки (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.21854</addresses_cord_y>
+        <addresses_cord_x>55.99703</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>43406</addresses_id>
+        <addresses_address>7К1</addresses_address>
+        <addresses_street>ул. Молостовых</addresses_street>
+        <addresses_street_name>Молостовых</addresses_street_name>
+        <addresses_street_type>улица</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Восточный адм.округ</addresses_adm1>
+        <addresses_adm2>Ивановское (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.83329</addresses_cord_y>
+        <addresses_cord_x>55.76088</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>148524</addresses_id>
+        <addresses_address>1</addresses_address>
+        <addresses_street>Живописная ул.</addresses_street>
+        <addresses_street_name>Живописная</addresses_street_name>
+        <addresses_street_type>улица</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Северо-Западный адм.округ</addresses_adm1>
+        <addresses_adm2>Хорошево-Мневники (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.45269</addresses_cord_y>
+        <addresses_cord_x>55.77981</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>115964</addresses_id>
+        <addresses_address>51С30</addresses_address>
+        <addresses_street>ул. Декабристов</addresses_street>
+        <addresses_street_name>Декабристов</addresses_street_name>
+        <addresses_street_type>улица</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Северо-Восточный адм.округ</addresses_adm1>
+        <addresses_adm2>Отрадное (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.62241</addresses_cord_y>
+        <addresses_cord_x>55.86292</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>108017</addresses_id>
+        <addresses_address>2К4С3</addresses_address>
+        <addresses_street>Крылатская ул.</addresses_street>
+        <addresses_street_name>Крылатская</addresses_street_name>
+        <addresses_street_type>улица</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Западный адм.округ</addresses_adm1>
+        <addresses_adm2>Крылатское (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.44515</addresses_cord_y>
+        <addresses_cord_x>55.75595</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>24991</addresses_id>
+        <addresses_address>5-7</addresses_address>
+        <addresses_street>Прямой пер.</addresses_street>
+        <addresses_street_name>Прямой</addresses_street_name>
+        <addresses_street_type>переулок</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Центральный адм.округ</addresses_adm1>
+        <addresses_adm2>Арбат (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.57926</addresses_cord_y>
+        <addresses_cord_x>55.75128</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>67145</addresses_id>
+        <addresses_address>К501</addresses_address>
+        <addresses_street>5-й мкр.</addresses_street>
+        <addresses_street_name>5-й</addresses_street_name>
+        <addresses_street_type>микрорайон</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Зеленоградский адм.округ</addresses_adm1>
+        <addresses_adm2>Матушкино-Савелки (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.23150</addresses_cord_y>
+        <addresses_cord_x>55.99625</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>53129</addresses_id>
+        <addresses_address>10А</addresses_address>
+        <addresses_street>Глебовская ул.</addresses_street>
+        <addresses_street_name>Глебовская</addresses_street_name>
+        <addresses_street_type>улица</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Восточный адм.округ</addresses_adm1>
+        <addresses_adm2>Богородское (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.71503</addresses_cord_y>
+        <addresses_cord_x>55.81258</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>32194</addresses_id>
+        <addresses_address>8А</addresses_address>
+        <addresses_street>ул. Дружбы</addresses_street>
+        <addresses_street_name>Дружбы</addresses_street_name>
+        <addresses_street_type>улица</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Западный адм.округ</addresses_adm1>
+        <addresses_adm2>Раменки (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.51332</addresses_cord_y>
+        <addresses_cord_x>55.70859</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>60553</addresses_id>
+        <addresses_address>39К4</addresses_address>
+        <addresses_street>просп. Маршала Жукова</addresses_street>
+        <addresses_street_name>Маршала Жукова</addresses_street_name>
+        <addresses_street_type>проспект</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Северо-Западный адм.округ</addresses_adm1>
+        <addresses_adm2>Хорошево-Мневники (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.47040</addresses_cord_y>
+        <addresses_cord_x>55.77503</addresses_cord_x>
+    </addresses>
+    <addresses>
+        <addresses_id>47670</addresses_id>
+        <addresses_address>3С1</addresses_address>
+        <addresses_street>2-й Красносельский пер.</addresses_street>
+        <addresses_street_name>Красносельский 2-й</addresses_street_name>
+        <addresses_street_type>переулок</addresses_street_type>
+        <addresses_adm>г.Москва</addresses_adm>
+        <addresses_adm1>Центральный адм.округ</addresses_adm1>
+        <addresses_adm2>Красносельское (адм.район)</addresses_adm2>
+        <addresses_cord_y>37.66496</addresses_cord_y>
+        <addresses_cord_x>55.78287</addresses_cord_x>
+    </addresses>
+    <!-- Table users -->
+
+    <users>
+        <user_id>40964</user_id>
+        <user_age>30</user_age>
+        <user_name>Коровинское шоссе</user_name>
+    </users>
+</roomservice>
